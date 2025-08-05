@@ -1,0 +1,71 @@
+Eine Excel-Datei mit zwei Blätter wird bereitgestellt.
+Beide Tabellenblätter enthalten idiomatische und literale Sätze, passend zum jeweiligen Idiom.
+ 
+Aufgabe:
+1.	Identifiziere in jedem Satz die Bestandteile einer Potentially Idiomatic Expression (PIE).
+2.	Setze jede idiomatische Komponente in eckige Klammern. Berücksichtige dabei:
+        - Flexion: z. B. [saß] ist eine gültige Form von [sitzen], ebenso wie [saßen], [sitzt], [gesetzt] usw.
+        - Wortvarianten und grammatische Abweichungen sind erlaubt, solange sie semantisch zum Idiom gehören.
+
+Erstelle für jedes Idiom eine separate .txt-Datei mit folgendem Aufbau:
+Zuerst alle 50 literalen Sätze, jeweils ein Satz pro Zeile.
+Danach eine Leerzeile.
+Dann alle 50 idiomatischen Sätze, ebenfalls ein Satz pro Zeile.
+
+Hinweise:
+Die Zuordnung, welches Idiom in welchem Satz vorkommt, ergibt sich aus der Struktur der Daten. Alle Sätze eines Idioms sind im jeweiligen Blatt gebündelt.
+Jeder Satz enthält genau eine Instanz des jeweiligen Idioms.
+Die PIE-Komponenten sind teilweise abweichend. Berücksichtige bitte, dass beispielsweise [saß] genauso richtig ist wie [sitzen], [sitzt] oder auch [saßen].
+Gib die Ergebnisse in einer ZIP-Datei aus.
+
+Beispielhafte Ausgabe pro Idiom:
+Die Diskussion war so komplex, dass ich irgendwann [den] [Faden] [verlor].
+Der Zug [kriegte] [die] [Kurve] und fuhr in den Tunnel.
+Mit ihrem Bedürfnis nach Kontrolle hat sie [den] [Bogen] [überspannt].
+Der Dampfer [kam] nach dem Ablegen gemächlich [in] [Fahrt].
+Als sie erneut durch die Prüfung fiel, [warf] sie [das] [Handtuch].
+Beim Poker [zog] er [den] [Kürzeren] und verlor alles.
+Wenn du dein Ziel erreichen willst, musst du jetzt [einen] [Zahn] [zulegen].
+Sie [drückte] [ein] [Auge] [zu] und beobachtete durch das Schlüsselloch.
+Seit der Ankündigung der Prüfung [steht] sie [unter] [Strom].
+Der Lärm der Baustelle ließ mich [kein] [Auge] [zutun].
+Der Hund [blieb] beim Spielen hartnäckig [am] [Ball].
+Der Kollege musste überraschend [die] [Koffer] [packen].
+Die Wanderung wurde abgebrochen, als der Pfad [im] [Sande] [verlief].
+Wer in der Eventbranche arbeitet, [ist] immer [auf] [Achse].
+Beim Fotoshooting [trat] das Model [kürzer], um nicht aus dem Fokus zu geraten.
+
+Die Beziehungen zwischen den Ländern [lagen] nach dem Konflikt [am] [Boden].
+Der Abend [verlor] [an] [Glanz], als der DJ ausfiel.
+Der Konzern hat eine strategisch wichtige Firma [an] [Land] [gezogen].
+Der Lehrer erklärte, was es bedeutete, [am] [Pranger] zu [stehen].
+Die Welt [hielt] [den] [Atem] [an], als die Rakete startete.
+Die Reservezüge [stehen] bereit [auf] [dem] [Abstellgleis].
+Sie [nimmt] ständig alle [auf] [den] [Arm], ohne dass man es merkt.
+Der Torwart [saß] mit Trainingsjacke [auf] [der] [Ersatzbank].
+Die Umstrukturierung ließ ihn am Ende [auf] [der] [Straße] [stehen].
+Der Lkw [blieb] wegen eines Motorschadens [auf] [der] [Strecke].
+Der Plan [liegt] [auf] [dem] [Tisch], aber niemand handelt.
+Der Held [sprang] vom Motorrad [auf] [den] [Zug].
+Sie [baut] durch ihre Arbeit [eine] [Brücke] zwischen Forschung und Öffentlichkeit.
+Die Wunde war gereizt, obwohl [die] [Fäden] schon [gezogen] waren.
+Kreativität [hat] sie [im] [Blut].
+Die Zahl der Teilnehmenden [ging] rapide [in] [den] [Keller].
+Der Karton [hing] am Kran [in] [der] [Luft].
+Sie bat um Hilfe, aber ihre Freunde ließen sie [im] [Regen] [stehen].
+Die Teilnehmer*innen [gingen] mutig [ins] [Rennen].
+Das Start-up [geriet] mit seinem Konzept [in] [eine] [Sackgasse].
+Die Wahrheit [steht] [im] [Schatten] der offiziellen Version.
+Das Bildungsniveau ist durch fehlende Ressourcen [in] [Schieflage] [geraten].
+Das Skateboard [fiel] beim Trick [ins] [Wasser].
+Ich [holte] [Luft] und betrat den Raum.
+Der Junge [spielte] [mit] [dem] [Feuer] und erschrak beim Knall.
+Mit seiner These [traf] der Autor [einen] [Nerv] in der Fachwelt.
+Nach dem Streit [zog] sie emotional [die] [Notbremse].
+Die Intrige war nichts anderes als der Versuch, [eine] [Rechnung] zu [begleichen].
+Der Idealismus [ging] im Alltag [über] [Bord].
+Der Sturm zwang sie, Ladung [über] [Bord] zu [werfen].
+Die Demonstration [ging] friedlich [über] [die] [Bühne].
+Er [ging] nach Jahrzehnten loyaler Arbeit [von] [Bord].
+Der Nachbar [stand] mit einem Kuchen [vor] [der] [Tür].
+Die Jugendlichen [schlugen] [ein] [Zelt] als Rückzugsort [auf].
