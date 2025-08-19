@@ -1,3 +1,5 @@
+# Beispiel für das Idiom "vor der Tür stehen"
+
 text = """
 Der Paketbote [steht] [vor] [der] [Tür] .
 Ein Mann in Anzug [stand] plötzlich [vor] [der] [Tür] .
@@ -131,4 +133,5 @@ lines = text.strip().split('\n')
 # Überprüfen jeder Zeile auf Klammerung
 for i, line in enumerate(lines, start=1):
     if '[' not in line and ']' not in line:
+
         print(f"Satz {i} enthält keine Klammerung: {line}")
