@@ -1,5 +1,3 @@
-# Bachelorarbeit 
-
 # Struktur
 - **data/** → meine Datensätze 
 - **prompts/** → die Prompts, die ich in ChatGPT verwendet habe
